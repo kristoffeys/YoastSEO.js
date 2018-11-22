@@ -207,4 +207,4 @@ class SubHeadingsKeywordAssessment extends Assessment {
 	}
 }
 
-module.exports = SubHeadingsKeywordAssessment;
+export default SubHeadingsKeywordAssessment;
